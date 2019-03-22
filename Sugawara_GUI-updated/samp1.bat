@@ -1,0 +1,1 @@
+bokeh serve samp1.py --show
